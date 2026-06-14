@@ -6,7 +6,7 @@ I'm a Data Analyst with experience in Business Intelligence, Performance Analyti
 
 ## 🚀 About Me
 
-* 📊 Data Analyst with 3+ years of experience
+* 📊 Data Analyst with 4 years of experience
 * 💡 Passionate about Analytics, Automation, and Business Intelligence
 * 🤖 Exploring Generative AI and AI-powered analytics
 * 📈 Experienced in KPI Tracking, Dashboard Development, and Performance Analytics
