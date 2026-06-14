@@ -32,7 +32,7 @@ I'm a Data Analyst with experience in Business Intelligence, Performance Analyti
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn URL]
+* LinkedIn: [(https://www.linkedin.com/in/thakur-lalith-singh/)]
 * Email: [rajputlalith@gmail.com](mailto:rajputlalith@gmail.com)
 
 ---
